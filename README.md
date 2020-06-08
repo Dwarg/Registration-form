@@ -1,2 +1,2 @@
-# Registration---Java-Swing
+# Registration - Java Swing
 A small university project
